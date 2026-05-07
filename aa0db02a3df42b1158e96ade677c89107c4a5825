@@ -1,0 +1,27 @@
+grafana/helpers.ts
+  8984ca5859cbe636 182-186,194
+.cloudflare/grafana/do-size-updater.json
+  8984ca5859cbe636 70,72,74,92,94,112,114,132,134
+grafana/dashboards/do-size-updater.ts
+  8984ca5859cbe636 1435,1437,1440,1446,1454
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "aa0db02a3df42b1158e96ade677c89107c4a5825",
+  "prompts": {
+    "8984ca5859cbe636": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1fd6e5384ffe44cMlznDCnsake",
+        "model": "anthropic/claude-opus-4-6"
+      },
+      "human_author": "Andy Heller-Jones",
+      "messages": [],
+      "total_additions": 20,
+      "total_deletions": 16,
+      "accepted_lines": 20,
+      "overriden_lines": 0
+    }
+  }
+}
