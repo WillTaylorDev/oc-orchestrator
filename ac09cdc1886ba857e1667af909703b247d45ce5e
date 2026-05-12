@@ -1,0 +1,23 @@
+shared/commands/investigate-alert.md
+  c7f2cd8a8f9e1925 33-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "ac09cdc1886ba857e1667af909703b247d45ce5e",
+  "prompts": {
+    "c7f2cd8a8f9e1925": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1f04bdab2ffeLdLuQ8i5SVjSbY",
+        "model": "anthropic/claude-opus-4-7"
+      },
+      "human_author": "Will Taylor",
+      "messages": [],
+      "total_additions": 7,
+      "total_deletions": 7,
+      "accepted_lines": 7,
+      "overriden_lines": 0
+    }
+  }
+}
