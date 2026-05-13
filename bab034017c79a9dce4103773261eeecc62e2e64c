@@ -1,0 +1,23 @@
+shared/commands/email-review.md
+  eb303eaec36033cc 35-40,45-48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "bab034017c79a9dce4103773261eeecc62e2e64c",
+  "prompts": {
+    "eb303eaec36033cc": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_20d250581ffeWcXNcxAiFa8T1Y",
+        "model": "anthropic/claude-opus-4-7"
+      },
+      "human_author": "Will Taylor",
+      "messages": [],
+      "total_additions": 10,
+      "total_deletions": 3,
+      "accepted_lines": 10,
+      "overriden_lines": 0
+    }
+  }
+}
