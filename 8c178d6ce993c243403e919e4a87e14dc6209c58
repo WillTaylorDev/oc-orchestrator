@@ -1,0 +1,23 @@
+ci/test.yml
+  cc2bfd6db1ccc492 40-41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "8c178d6ce993c243403e919e4a87e14dc6209c58",
+  "prompts": {
+    "cc2bfd6db1ccc492": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1d9517aeeffeZrr1OdRNwQFtSt",
+        "model": "anthropic/claude-opus-4-7"
+      },
+      "human_author": "Andy Heller-Jones",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 2,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  }
+}
