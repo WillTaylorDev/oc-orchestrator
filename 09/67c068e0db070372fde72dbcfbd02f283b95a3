@@ -1,0 +1,29 @@
+internal/api/errors.go
+  22baa37600d6ebd1 1316-1323
+internal/api/script/reader/multipart.go
+  22baa37600d6ebd1 283-289,730-754
+internal/api/script/reader/reader_test.go
+  22baa37600d6ebd1 1555-1556
+test/integration/script_bindings_test.go
+  22baa37600d6ebd1 4680,4682-4685,4757-4780
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "0967c068e0db070372fde72dbcfbd02f283b95a3",
+  "prompts": {
+    "22baa37600d6ebd1": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1c49c2946ffez7W6VFJaYSJQFu",
+        "model": "anthropic/claude-opus-4-7"
+      },
+      "human_author": "Gabriel Massadas",
+      "messages": [],
+      "total_additions": 73,
+      "total_deletions": 1,
+      "accepted_lines": 73,
+      "overriden_lines": 0
+    }
+  }
+}
